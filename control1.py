@@ -18,7 +18,7 @@
 ################################################################################################
 #  Change History
 #  ==============
-#  Version  Date       Who   Description
+#  Version  Date       Who   Description 
 #  ======== ========== ====  ===========
 #  1.0      2014-11-01 GLC   Initial Version
 #  1.1      2015-11-13 GLC   Added logging for significant switching events for heating zones
